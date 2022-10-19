@@ -1,0 +1,18 @@
+# BEGIN ShortPixelWebp
+# The directives (lines) between "BEGIN ShortPixelWebp" and "END ShortPixelWebp" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END ShortPixelWebp
+# BEGIN WishList Member Attachment Protection for bettawerks.net
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^bettawerks\.net$ [NC]
+RewriteCond %{REQUEST_URI} !\.(jpg|jpeg|png|gif|bmp|css|js)$ [NC]
+RewriteRule ^(.*)$ /index.php?wlmfile=$1 [L]
+# END WishList Member Attachment Protection for bettawerks.net
+# BEGIN WishList Member Attachment Protection for www.bettawerks.net
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.bettawerks\.net$ [NC]
+RewriteCond %{REQUEST_URI} !\.(jpg|jpeg|png|gif|bmp|css|js)$ [NC]
+RewriteRule ^(.*)$ /index.php?wlmfile=$1 [L]
+# END WishList Member Attachment Protection for www.bettawerks.net

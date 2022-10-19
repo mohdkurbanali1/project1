@@ -1,0 +1,13 @@
+[09-Oct-2020 14:30:19 UTC] wp_auto_login: trying to login user_id==1 loginusername=q to admin_url=https://www.bettawerks.net/wp-admin/
+[09-Oct-2020 17:49:32 UTC] wp_auto_login: trying to login user_id==1 loginusername=q to admin_url=http://www.bettawerks.net/wp-admin/
+[09-Oct-2020 18:01:12 UTC] wp_auto_login: trying to login user_id==1 loginusername=q to admin_url=http://www.bettawerks.net/wp-admin/
+[20-Oct-2020 03:57:24 UTC] wp_auto_login: trying to login user_id==1 loginusername=q to admin_url=http://www.bettawerks.net/wp-admin/
+[22-Oct-2020 20:45:34 UTC] wp_auto_login: trying to login user_id==1 loginusername=q to admin_url=http://www.bettawerks.net/wp-admin/
+[23-Oct-2020 15:28:17 UTC] wp_auto_login: trying to login user_id==1 loginusername=q to admin_url=https://www.bettawerks.net/wp-admin/
+[27-Oct-2020 19:30:07 UTC] wp_auto_login: trying to login user_id==1 loginusername=q to admin_url=https://www.bettawerks.net/wp-admin/
+[17-Nov-2020 17:48:31 UTC] wp_auto_login: trying to login user_id==1 loginusername=q to admin_url=https://www.bettawerks.net/wp-admin/
+[18-Jan-2021 15:37:48 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM _8EH_options WHERE option_name = '_transient_timeout_et_core_path' LIMIT 1 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('after_setup_theme'), WP_Hook->do_action, WP_Hook->apply_filters, et_setup_theme, require_once('/themes/Divi/core/init.php'), _et_core_load_latest, get_transient, get_option
+[18-Jan-2021 15:37:49 UTC] WordPress database error Server shutdown in progress for query SELECT `option_value` FROM `_8EH_wlm_options` WHERE `option_name`='LicenseKey' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WishListMemberCore->WPWLKeyProcess, WishListMemberCore->GetOption
+[17-Feb-2021 22:01:27 UTC] wp_auto_login: trying to login user_id==1 loginusername=q to admin_url=https://www.bettawerks.net/wp-admin/
+[17-Feb-2021 22:04:21 UTC] wp_auto_login: trying to login user_id==1 loginusername=q to admin_url=https://www.bettawerks.net/wp-admin/
+[12-May-2021 16:44:31 UTC] wp_auto_login: trying to login user_id==1 loginusername=q to admin_url=https://www.bettawerks.net/wp-admin/

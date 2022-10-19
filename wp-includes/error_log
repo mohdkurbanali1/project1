@@ -1,0 +1,36 @@
+[30-Jul-2020 05:44:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home1/bettawe1/public_html/wp-includes/update.php:813
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/update.php on line 813
+[30-Jul-2020 14:54:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home1/bettawe1/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[30-Jul-2020 14:54:55 America/Boise] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home1/bettawe1/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 00:27:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/bettawe1/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 00:27:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/bettawe1/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 07:17:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/bettawe1/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 07:17:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/bettawe1/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 14:16:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home1/bettawe1/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:16:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home1/bettawe1/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23

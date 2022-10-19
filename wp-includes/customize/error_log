@@ -1,0 +1,28 @@
+[30-Jul-2020 11:21:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home1/bettawe1/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[30-Jul-2020 11:21:11 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home1/bettawe1/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[30-Jul-2020 17:53:25 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home1/bettawe1/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 14:13:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home1/bettawe1/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 14:13:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home1/bettawe1/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 14:14:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home1/bettawe1/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 14:14:25 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home1/bettawe1/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/bettawe1/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

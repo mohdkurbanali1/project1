@@ -1,0 +1,6 @@
+#woocommerce-products tbody:not(:empty) ~ tfoot tr:first-child {
+	display: none;
+}
+#woocommerce-products tbody:empty ~ thead {
+	display: none;
+}

@@ -1,0 +1,931 @@
+[04-Jan-2020 16:02:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Jan-2020 19:04:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Jan-2020 19:07:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Jan-2020 19:08:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Jan-2020 19:16:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Jan-2020 19:17:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Jan-2020 19:22:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Jan-2020 19:23:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Jan-2020 19:23:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Jan-2020 19:23:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Jan-2020 19:24:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Jan-2020 20:07:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Jan-2020 20:16:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[10-Jan-2020 05:16:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[10-Jan-2020 05:17:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[10-Jan-2020 05:27:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[10-Jan-2020 05:41:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[13-Jan-2020 22:28:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[13-Jan-2020 23:00:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[18-Jan-2020 07:17:45 UTC] WordPress database error Table 'bettawe1_WP8EH._8EH_et_divi_ab_testing_stats' doesn't exist for query SHOW FULL COLUMNS FROM `_8EH_et_divi_ab_testing_stats` made by do_action('wp_ajax_et_pb_update_stats_table'), WP_Hook->do_action, WP_Hook->apply_filters, et_pb_update_stats_table, et_pb_add_stats_record
+[18-Jan-2020 10:17:14 UTC] WordPress database error Table 'bettawe1_WP8EH._8EH_et_divi_ab_testing_stats' doesn't exist for query SHOW COLUMNS FROM `_8EH_et_divi_ab_testing_stats` LIKE 'client_id' made by do_action('wp_ajax_et_pb_create_ab_tables'), WP_Hook->do_action, WP_Hook->apply_filters, et_pb_create_ab_tables
+[21-Jan-2020 19:50:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[21-Jan-2020 19:54:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[21-Jan-2020 19:57:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[21-Jan-2020 20:03:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[21-Jan-2020 23:44:37 UTC] PHP Warning:  require_once(/home1/bettawe1/public_html/wp-content/themes/Divi/includes/builder/module/SignupItem.php): failed to open stream: No such file or directory in /home1/bettawe1/public_html/wp-content/themes/Divi/includes/builder/main-modules.php on line 23
+[21-Jan-2020 23:44:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/bettawe1/public_html/wp-content/themes/Divi/includes/builder/module/SignupItem.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home1/bettawe1/public_html/wp-content/themes/Divi/includes/builder/main-modules.php on line 23
+[30-Jan-2020 21:38:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[31-Jan-2020 19:41:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[31-Jan-2020 19:42:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[31-Jan-2020 19:44:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[31-Jan-2020 19:52:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[31-Jan-2020 20:22:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Feb-2020 20:57:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Feb-2020 20:58:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Feb-2020 21:00:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Feb-2020 21:00:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Feb-2020 21:04:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Feb-2020 21:06:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Feb-2020 21:06:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Feb-2020 21:08:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Feb-2020 21:08:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[04-Feb-2020 21:19:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/bettawe1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 192
+[07-Feb-2020 02:49:36 UTC] WordPress database error Column 'option_value' cannot be null for query INSERT INTO `_8EH_wlm_options` (`option_name`, `option_value`) VALUES ('email_sender_name', NULL) made by activate_plugin, include_once('/plugins/wishlist-member-x/wpm.php'), WishListMember3->__construct, WishListMember3_Core->constructor3, WishListMember->Activate, WishListMemberCore->AddOption
+[07-Feb-2020 02:49:36 UTC] WordPress database error Column 'option_value' cannot be null for query INSERT INTO `_8EH_wlm_options` (`option_name`, `option_value`) VALUES ('email_sender_address', NULL) made by activate_plugin, include_once('/plugins/wishlist-member-x/wpm.php'), WishListMember3->__construct, WishListMember3_Core->constructor3, WishListMember->Activate, WishListMemberCore->AddOption
+[07-Feb-2020 02:49:36 UTC] WordPress database error Column 'option_value' cannot be null for query INSERT INTO `_8EH_wlm_options` (`option_name`, `option_value`) VALUES ('newmembernotice_email_recipient', NULL) made by activate_plugin, include_once('/plugins/wishlist-member-x/wpm.php'), WishListMember3->__construct, WishListMember3_Core->constructor3, WishListMember->Activate, WishListMemberCore->AddOption
+[07-Feb-2020 02:49:38 UTC] WordPress database error Column 'option_value' cannot be null for query INSERT INTO `_8EH_wlm_options` (`option_name`, `option_value`) VALUES ('email_sender_name', NULL) made by activate_plugin, do_action('activate_wishlist-member-x/wpm.php'), WP_Hook->do_action, WP_Hook->apply_filters, WishListMember3_Hooks->wlm3_activate, WishListMember->Activate, WishListMemberCore->AddOption
+[07-Feb-2020 02:49:38 UTC] WordPress database error Column 'option_value' cannot be null for query INSERT INTO `_8EH_wlm_options` (`option_name`, `option_value`) VALUES ('email_sender_address', NULL) made by activate_plugin, do_action('activate_wishlist-member-x/wpm.php'), WP_Hook->do_action, WP_Hook->apply_filters, WishListMember3_Hooks->wlm3_activate, WishListMember->Activate, WishListMemberCore->AddOption
+[07-Feb-2020 02:49:38 UTC] WordPress database error Column 'option_value' cannot be null for query INSERT INTO `_8EH_wlm_options` (`option_name`, `option_value`) VALUES ('newmembernotice_email_recipient', NULL) made by activate_plugin, do_action('activate_wishlist-member-x/wpm.php'), WP_Hook->do_action, WP_Hook->apply_filters, WishListMember3_Hooks->wlm3_activate, WishListMember->Activate, WishListMemberCore->AddOption
+[25-Feb-2020 17:43:47 UTC]  .../api/Service.php:472  ET_Core_API_Service::make_remote_request():
+ET_Core_HTTPInterface ERROR :: Remote request failed...
+
+Details: ET_Core_HTTPInterface Object
+(
+    [REQUEST] => ET_Core_HTTPRequest Object
+        (
+            [ARGS] => Array
+                (
+                    [blocking] => 1
+                    [body] => {"email_address":"q@quixtec.com","merge_fields":{"FNAME":"Richard","LNAME":"Quatier"},"ip_signup":"73.140.238.210","status":"pending"}
+                    [cookies] => Array
+                        (
+                        )
+
+                    [headers] => Array
+                        (
+                            [Authorization] => Basic YnVpbGRlcjphcGlfa2V5
+                            [Accept] => application/json
+                            [Content-Type] => application/json
+                        )
+
+                    [method] => POST
+                    [sslverify] => 1
+                    [user-agent] => WordPress/5.3.2; Divi Builder/4.3.4; https://bettawerks.net
+                    [timeout] => 30
+                )
+
+            [URL] => /lists/03dac884f0/members
+            [METHOD] => POST
+            [BODY] => {"email_address":"q@quixtec.com","merge_fields":{"FNAME":"Richard","LNAME":"Quatier"},"ip_signup":"73.140.238.210","status":"pending"}
+            [IS_AUTH] => 
+            [IS_JSON_BODY] => 1
+            [OWNER] => builder
+        )
+
+    [RESPONSE] => ET_Core_HTTPResponse Object
+        (
+            [STATUS_CODE] => http_request_failed
+            [STATUS_MESSAGE] => A valid URL was not provided.
+            [ERROR] => 1
+            [ERROR_MESSAGE] => A valid URL was not provided.
+            [DATA] => 
+        )
+
+)
+
+[05-Mar-2020 00:01:37 UTC] WordPress database error Column 'option_value' cannot be null for query INSERT INTO `_8EH_wlm_options` (`option_name`, `option_value`) VALUES ('newmembernotice_email_recipient', NULL) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/wishlist-member-x/wpm.php'), WishListMember3->__construct, WishListMember3_Core->constructor3, WishListMember->Activate, WishListMemberCore->AddOption
+[15-May-2020 18:57:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/bettawe1/public_html/wp-content/maintenance.php:1) in /home1/bettawe1/public_html/wp-content/maintenance.php on line 3
+[15-May-2020 18:57:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/bettawe1/public_html/wp-content/maintenance.php:1) in /home1/bettawe1/public_html/wp-content/maintenance.php on line 4
+[15-May-2020 18:57:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/bettawe1/public_html/wp-content/maintenance.php:1) in /home1/bettawe1/public_html/wp-content/maintenance.php on line 5
+[23-May-2020 16:37:53 UTC] WordPress database error Table 'bettawe1_WP8EH._8EH_litespeed_img_optm' doesn't exist for query SELECT src,post_id FROM `_8EH_litespeed_img_optm` WHERE post_id = 5741 made by do_action('wp_ajax_delete-post'), WP_Hook->do_action, WP_Hook->apply_filters, wp_ajax_delete_post, wp_delete_post, wp_delete_attachment, do_action('delete_attachment'), WP_Hook->do_action, WP_Hook->apply_filters, LiteSpeed\Media->delete_attachment, LiteSpeed\Img_Optm->reset_row
+[30-May-2020 20:48:51 UTC]  .../api/Service.php:472  ET_Core_API_Service::make_remote_request():
+ET_Core_HTTPInterface ERROR :: Remote request failed...
+
+Details: ET_Core_HTTPInterface Object
+(
+    [REQUEST] => ET_Core_HTTPRequest Object
+        (
+            [ARGS] => Array
+                (
+                    [blocking] => 1
+                    [body] => {"email_address":"arianna.nevins@gmail.com","merge_fields":{"FNAME":"","LNAME":""},"ip_signup":"107.77.230.106","status":"pending"}
+                    [cookies] => Array
+                        (
+                        )
+
+                    [headers] => Array
+                        (
+                            [Authorization] => Basic YnVpbGRlcjphcGlfa2V5
+                            [Accept] => application/json
+                            [Content-Type] => application/json
+                        )
+
+                    [method] => POST
+                    [sslverify] => 1
+                    [user-agent] => WordPress/5.4.1; Divi Builder/4.4.7; https://bettawerks.net
+                    [timeout] => 30
+                )
+
+            [URL] => /lists/42d4a98af1/members
+            [METHOD] => POST
+            [BODY] => {"email_address":"arianna.nevins@gmail.com","merge_fields":{"FNAME":"","LNAME":""},"ip_signup":"107.77.230.106","status":"pending"}
+            [IS_AUTH] => 
+            [IS_JSON_BODY] => 1
+            [OWNER] => builder
+        )
+
+    [RESPONSE] => ET_Core_HTTPResponse Object
+        (
+            [STATUS_CODE] => http_request_failed
+            [STATUS_MESSAGE] => A valid URL was not provided.
+            [ERROR] => 1
+            [ERROR_MESSAGE] => A valid URL was not provided.
+            [DATA] => 
+        )
+
+)
+
+[31-May-2020 20:02:42 UTC] Media Cleaner Timeout! Check the Media Cleaner logs for more info.
+[31-May-2020 20:09:39 UTC] Media Cleaner Timeout! Check the Media Cleaner logs for more info.
+[31-May-2020 20:25:31 UTC] Media Cleaner Timeout! Check the Media Cleaner logs for more info.
+[31-May-2020 20:31:35 UTC] Media Cleaner Timeout! Check the Media Cleaner logs for more info.
+[31-May-2020 20:33:18 UTC] Media Cleaner Timeout! Check the Media Cleaner logs for more info.
+[31-May-2020 20:36:37 UTC] 5944
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5870
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5867
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5864
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5860
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5811
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5804
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5799
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5789
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5785
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5779
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5778
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5777
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5759
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5758
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5757
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5756
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5755
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5754
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5753
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5746
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:37 UTC] 5738
+[31-May-2020 20:36:37 UTC] 
+[31-May-2020 20:36:38 UTC] 5727
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5722
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5720
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5716
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5715
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5714
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5713
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5712
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5711
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5710
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5620
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5619
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5618
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5616
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5615
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5595
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5588
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5557
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5458
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5457
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5353
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5352
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5351
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5350
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5349
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5348
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5347
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5346
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5345
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5344
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5334
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5333
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5332
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5331
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5330
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5329
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5328
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5327
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5321
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5320
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5319
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5318
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5303
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5290
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5289
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5288
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5287
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5286
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5285
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5284
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5283
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5282
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5281
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5280
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5279
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5278
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5277
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5236
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5235
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5234
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5233
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5232
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5231
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5230
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5229
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5228
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5227
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5226
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5225
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5224
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5223
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5222
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5221
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5210
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5209
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5208
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5207
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:38 UTC] 5206
+[31-May-2020 20:36:38 UTC] 
+[31-May-2020 20:36:39 UTC] 5205
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5204
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5203
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5202
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5121
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5114
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5112
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5109
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5102
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5092
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5083
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5078
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5072
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5071
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5070
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5069
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5068
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5067
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5066
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5065
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5064
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5063
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5062
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5061
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5060
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5059
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5058
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5057
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5056
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5055
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5054
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 5053
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4991
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4987
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4954
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4946
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4944
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4886
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4883
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4814
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4813
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4812
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4809
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4808
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4807
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4776
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4773
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4772
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4767
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4757
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4627
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4626
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4623
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4619
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4616
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4615
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4614
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4610
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4598
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4595
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4593
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4585
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4580
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4577
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4567
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4560
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4557
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4552
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4528
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4469
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4463
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4392
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4391
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4390
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4361
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4286
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4285
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4284
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4283
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4260
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4259
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4258
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4257
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4256
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4255
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4254
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4245
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4239
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4233
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4232
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4231
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4225
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4223
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4218
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4214
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4206
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4123
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4121
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4120
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:39 UTC] 4119
+[31-May-2020 20:36:39 UTC] 
+[31-May-2020 20:36:41 UTC] 4118
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4117
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4116
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4115
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4114
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4113
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4112
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4111
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4110
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4109
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4108
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4107
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4106
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4105
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4104
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4103
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4102
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4101
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4100
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4099
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 4098
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 3997
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 3965
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 3964
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 3951
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 3950
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2643
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2642
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2641
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2640
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2639
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2638
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2637
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2636
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2635
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2634
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2633
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2632
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2631
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2630
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2629
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2578
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2577
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2548
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2428
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2363
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2327
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2252
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2241
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2226
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2173
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2172
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2171
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2170
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2169
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2168
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 2167
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1661
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1599
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1525
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1503
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1458
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1433
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1423
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1422
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1421
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1420
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1419
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1418
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1417
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1416
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1415
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1394
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1393
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1392
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1391
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1390
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1389
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1388
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1387
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1386
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1319
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1318
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1243
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1235
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1201
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1200
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1199
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1029
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1028
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 1019
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 994
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 982
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 973
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 961
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 952
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 945
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 842
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 841
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:41 UTC] 767
+[31-May-2020 20:36:41 UTC] 
+[31-May-2020 20:36:42 UTC] 718
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 708
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 642
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 602
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 575
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 572
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 569
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 565
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 556
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 491
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 455
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 453
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 452
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 229
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 228
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 201
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 125
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 122
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 121
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 120
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 119
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 118
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 117
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 116
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 115
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 114
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 113
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 112
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 111
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 110
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 109
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 108
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 107
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 106
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 105
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 104
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 103
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 102
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 101
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 100
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 99
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 98
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 97
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 96
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 95
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 94
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 93
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 92
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 86
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 85
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 84
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 83
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 82
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 81
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 80
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 79
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 78
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 77
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 76
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 75
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 74
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 73
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 72
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 71
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 70
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 69
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 64
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 58
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 52
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 29
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 28
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:42 UTC] 27
+[31-May-2020 20:36:42 UTC] 
+[31-May-2020 20:36:43 UTC] 26
+[31-May-2020 20:36:43 UTC] 
+[31-May-2020 20:36:43 UTC] 25
+[31-May-2020 20:36:43 UTC] 
+[31-May-2020 20:36:43 UTC] 24
+[31-May-2020 20:36:43 UTC] 
+[31-May-2020 20:36:43 UTC] 23
+[31-May-2020 20:36:43 UTC] 
+[31-May-2020 20:36:43 UTC] 22
+[31-May-2020 20:36:43 UTC] 
+[31-May-2020 20:36:43 UTC] 21
+[31-May-2020 20:36:43 UTC] 
+[31-May-2020 20:36:43 UTC] 20
+[31-May-2020 20:36:43 UTC] 
+[31-May-2020 20:36:43 UTC] 19
+[31-May-2020 20:36:43 UTC] 
+[02-Jun-2020 22:16:09 UTC] PHP Notice:  Trying to get property 'public' of non-object in /home1/bettawe1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 485
+[02-Jun-2020 22:16:09 UTC] PHP Notice:  Trying to get property 'public' of non-object in /home1/bettawe1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 485
+[02-Jun-2020 22:16:09 UTC] PHP Notice:  Trying to get property 'public' of non-object in /home1/bettawe1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 485
+[14-Jul-2020 19:48:07 UTC] PHP Notice:  Trying to get property 'public' of non-object in /home1/bettawe1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 485
+[14-Jul-2020 19:48:07 UTC] PHP Notice:  Trying to get property 'public' of non-object in /home1/bettawe1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 485
+[14-Jul-2020 19:48:07 UTC] PHP Notice:  Trying to get property 'public' of non-object in /home1/bettawe1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 485
+[11-Sep-2020 19:05:23 UTC] PHP Notice:  Trying to get property 'public' of non-object in /home1/bettawe1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 489
+[11-Sep-2020 19:05:23 UTC] PHP Notice:  Trying to get property 'public' of non-object in /home1/bettawe1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 489
+[11-Sep-2020 19:05:23 UTC] PHP Notice:  Trying to get property 'public' of non-object in /home1/bettawe1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 489
+[11-Sep-2020 19:05:23 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (0) in /home1/bettawe1/public_html/wp-includes/functions.php on line 4669
+[11-Sep-2020 19:05:24 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (0) in /home1/bettawe1/public_html/wp-includes/functions.php on line 4669
+[16-Sep-2020 16:50:09 UTC] PHP Notice:  Trying to get property 'public' of non-object in /home1/bettawe1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 489
+[16-Sep-2020 16:50:09 UTC] PHP Notice:  Undefined index: wlm_old_post_parent in /home1/bettawe1/public_html/wp-content/plugins/wishlist-member-x/legacy/wpm.php on line 1425
+[16-Sep-2020 16:50:10 UTC] PHP Notice:  Trying to get property 'public' of non-object in /home1/bettawe1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 489
+[16-Sep-2020 16:50:10 UTC] PHP Notice:  Undefined index: wlm_old_post_parent in /home1/bettawe1/public_html/wp-content/plugins/wishlist-member-x/legacy/wpm.php on line 1425
+[16-Sep-2020 16:50:10 UTC] PHP Notice:  Trying to get property 'public' of non-object in /home1/bettawe1/public_html/wp-content/mu-plugins/endurance-page-cache.php on line 489
+[16-Sep-2020 16:50:10 UTC] PHP Notice:  Undefined index: wlm_old_post_parent in /home1/bettawe1/public_html/wp-content/plugins/wishlist-member-x/legacy/wpm.php on line 1425
+[16-Sep-2020 16:50:19 UTC] PHP Notice:  Undefined property: stdClass::$response in /home1/bettawe1/public_html/wp-content/plugins/wishlist-member-x/legacy/wpm.php on line 4242

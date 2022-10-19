@@ -1,0 +1,108 @@
+Just a simple file to remember things :)
+
+
+
+== BASICS
+
+Media Cleaner first PARSES (through PARSERS) the WordPress install to find refererences to files, and add them to the database (mclean_refs table). Once done, it analyzes each media entry (or each file found in /uploads). It creates an ISSUE (mclean_scan table) for each media entry (or file) which couldn't be matched with a reference.
+
+== SUPPORT NEW PLUGIN OR THEME
+
+A new parser should be added into the /parsers folder. This parser will be loaded through the parsers.php file, so it is important to understand how to detect the plugin/file at this point.
+
+Then, this new parser will need to hook to the appropriate actions (check the PARSING section). For example, if the plugin is a page builder, it might have a special way to encode images in its content. In that case, we need to hook into the scan_post, and from there, we can get the ID from the second argument ($post) and get the data as it is encoded by this page builder. Once we have the IDs or URLs, we need to add those references to the Cleaner database. For that, we can use the functions mentioned in the REFERENCES section. The matching will be processed by Media Cleaner automatically.
+
+
+
+== PROCESS
+
+The first part of the process is to extract the references (through the parsers), getting the targets (which are, depending on the option, what we need to check, files or media entries), then the actual checking of those targets. From this, we will get the issues.
+
+=== EXTRACT THE REFERENCES
+
+Actions called:
+* wpmc_scan_widget -> $widget
+* wpmc_scan_widgets
+* wpmc_scan_once
+* wpmc_scan_postmeta -> $post
+* wpmc_scan_post -> $html, $post (called twice, before and after the shortcores are resolved)
+
+=== LISTING TARGETS
+
+=== CHECKING TARGETS
+Everything is happening in engine.php, but that should work fine, so there should be no need for actions or filters.
+
+Media Cleaner purifies all the URLs that go through it to make sure the matching works. This can be an issue if one than more domain links to the same install, and if the install actually uses randomly those two domains for URLs pointing to the content.
+
+== REFERENCES
+
+* add_reference_url( $urlOrUrls, $type, $origin = null, $extra = null )
+Add an URL (or many URLs) to the DB, as a reference. Type is not SO important, but it represents the type of placeholder where the reference was found. For example: CONTENT (ID), CONTENT (URL), PAGE BUILDER, THEME, GALLERY, META, META (ID), META (URL), WIDGET, etc. Those are used for debugging purposed and can be also displayed to the users.
+
+* add_reference_id( $idOrIds, $type, $origin = null, $extra = null )
+Same as above, with a media ID instead of an URL.
+
+In one PHP process (asynchronous call), Cleaner will analyzes a certain number of posts, many calls to those add functions will be made but the actual insertion of the references will only be made at the end of the process (with the write_references function).
+
+
+
+== CORE HELPERS
+
+* get_urls_from_html( $html )
+Returns an array of URLs (from IMG SRC or SRCSET) from HTML.
+
+* get_from_meta( $meta, $lookFor, &$ids, &$urls )
+Returns the IDs and URLs used in a decoded JSON for the specified (lookFor) attributes.
+
+* get_trashdir()
+Returns the folder of the trash.
+
+* find_media_id_from_file()
+Find the media ID from the filepath.
+
+* clean_url_from_resolution( $url )
+Remove the resolution part of a thumbnail created by WP (300x300 for example). That way, we basically get the main file.
+
+* clean_uploaded_filename( $fullpath )
+From a fullpath to the shortened and cleaned path (for example '2013/02/file.png')
+
+* clean_url( $url )
+From a url to the shortened and cleaned url (for example '2013/02/file.png')
+
+
+
+== CORE FUNCTIONS
+
+* delete( $id )
+Move the file referenced by the issue ID () to the trash.
+
+* ignore( $id )
+Ignore this issue.
+
+* recover( $id )
+Recover a file/media from the Cleaner trash. ID is the internal ID of the trashed item (not the Media ID)
+
+* check_media( $attachmentId, $checkOnly = false )
+Check if a Media ID has references. If yes, an issue will be created. Return true or false.
+
+* reset_issues()
+Remove all issues.
+
+
+
+== WP-CLI
+
+Media Cleaner has a little interface for WP-CLI. Basically, it works this way:
+wp media-cleaner scan
+
+The options set in the settings are used. We can override the main options, if needed. Here are a few examples:
+wp media-cleaner scan library
+wp media-cleaner scan library uncheck-media check-content
+wp media-cleaner scan filesystem
+wp media-cleaner scan filesystem check-media uncheck-content
+
+
+
+== IDEAS
+
+The core.php (both in / and in /meowapps) looks for references through parsers. Then the checkers.php match those references and create issues.
